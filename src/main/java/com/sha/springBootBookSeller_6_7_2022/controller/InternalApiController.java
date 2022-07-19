@@ -24,3 +24,4 @@ public class InternalApiController
         return new ResponseEntity<>(HttpStatus.OK);
     }
 }
+//http://localhost:8095/api/internal/make-admin/admin
